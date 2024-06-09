@@ -1,0 +1,36 @@
+Predicting drug-drug interactions based on integrated similarity and semi supervised learning
+
+
+IEEE/ACM Transactions on Computational Biology and Bioinformatics,Volume:19,Issue:1,Issue Date:01.Jan-Feb.2022
+
+
+Drug,Drug-drug interactions,Regularized least squares classifier,Gaussian interaction profile kernel similarity.
+
+
+Predicting_Drug_Drug_Interactions
+
+
+predicting_drug_drug_interactions
+
+
+
+drug_drug_interactions
+
+
+uniqueID
+First_drugName
+condition1
+review
+Second_drugName
+condition2
+Prediction
+
+
+
+
+
+
+
+
+
+
