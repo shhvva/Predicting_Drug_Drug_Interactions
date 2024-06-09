@@ -1,5 +1,11 @@
 # Predicting Drug Drug Interaction 💊
 
+Mini Project done in third year by:
+21R01A05N5 - Ashwitha K
+21R01A05P0 - Shiva Shankar Mende
+22R05A0522 - Sunny Joel
+22R05A0526 - Kasi Vishwanath
+
 Multi-drug therapies have widely been used to treat diseases, especially complex diseases such as cancer to improve the treatment effect and reduce the burden of patients. However, the adverse effects resulted from multi-drug therapies have also been observed, which may caused some serious complications and even the patient death. Therefore, identifying drug-drug interactions is helpful in contributing to improved treatment of diseases and reducing the difficulty of drug developments. Especially, it is very necessary to develop new computational methods for identifying DDIs.
 
 ## Prerequisites 📋
@@ -46,3 +52,9 @@ In this module, there are n numbers of users are present. User should register b
 ## Conclusion
 
 Multi-drug therapies have widely been used to treat diseases, especially complex diseases such as cancer to improve the treatment effect and reduce the burden of patients. However, the adverse effects resulted from multi-drug therapies have also been observed, which may caused some serious complications and even the patient death. Therefore, identifying drug-drug interactions is helpful in contributing to improved treatment of diseases and reducing the difficulty of drug developments. Especially, it is very necessary to develop new computational methods for identifying DDIs.
+
+## Contact us
+21R01A05N5 - Ashwitha K - 21R01A05N5@cmritonline.ac.in
+21R01A05P0 - Shiva Shankar Mende - 21R01A05P0@cmritonline.ac.in
+22R05A0522 - Sunny Joel - 22R05A0522@cmritonline.ac.in
+22R05A0526 - Kasi Vishwanath - 22R05A0526@cmritonline.ac.in
