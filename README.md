@@ -18,6 +18,20 @@ Multi-drug therapies have widely been used to treat diseases, especially complex
 6. Open command prompt and install the requirements by `pip install -r requirements.txt` .
 7. Now launch the website by `py manage.py runserver` ,the website is hosted on the localhost:8000 .
 
+## Snapshots
+
+1. Login Page
+
+![login page](https://github.com/user-attachments/assets/0a425cce-9a0f-4e29-84b1-75f2e5095439)
+
+2. Resuts
+
+![results](https://github.com/user-attachments/assets/9cc77d25-d076-464f-840b-8ad17ff01bd8)
+
+3. Data visualization
+
+![piechart](https://github.com/user-attachments/assets/1101ebe7-3648-4a64-906e-3d15a4eea124)
+
 ## Usage 📖
 
 - Upon launching the application, 3 options login for remote users,admins and register an account.
